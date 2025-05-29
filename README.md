@@ -35,7 +35,7 @@ Powered by [`clmlib`](https://github.com/Clashsoft/clmlib), this launcher automa
 
 ## 🛠️ How to Build & Run
 
-### You can download the official latest relases [here](link.com)
+### You can download the official latest msi release [here]([link.com](https://github.com/user5012/MinecraftLauncher/releases/download/1.0.0/Minecraft.Launcher.Setup.msi))
 ---
 
 1. **Clone the repository**
