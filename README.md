@@ -55,7 +55,7 @@ Powered by [`clmlib`](https://github.com/CmlLib/CmlLib.Core), this launcher auto
 ## 🧰 Tech Stack
   * Language: C#
   * UI Framework: WPF
-  * Minecraft API: clmlib
+  * Minecraft API: [`clmlib`](https://github.com/CmlLib/CmlLib.Core)
 
 ## ⚠️ Disclaimer
 This launcher runs Minecraft in offline mode, which does not require Mojang or Microsoft account authentication.
