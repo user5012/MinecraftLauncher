@@ -68,8 +68,8 @@ This launcher runs Minecraft in offline mode, which does not require Mojang or M
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🙋 Author
-Kyrma
-GitHub: @user5012
+* Kyrma
+* GitHub: [@user5012](https://github.com/user5012)
 
 ## 🤝 Contributions
 Feel free to open issues or submit PRs. Suggestions and improvements are welcome!
