@@ -53,7 +53,7 @@ Powered by [`clmlib`](https://github.com/CmlLib/CmlLib.Core), this launcher auto
    *Click Start (F5) or build the project and run the .exe manually from bin/Debug/net6.0-windows/
 
 ## 🧰 Tech Stack
-  * Language: C# (.NET 6+)
+  * Language: C#
   * UI Framework: WPF
   * Minecraft API: clmlib
 
