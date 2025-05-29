@@ -2,7 +2,7 @@
 
 A sleek, user-friendly Minecraft launcher built with **C# and WPF**, allowing you to launch **official Mojang vanilla Minecraft** in **offline mode** with **any username**.
 
-Powered by [`clmlib`](https://github.com/Clashsoft/clmlib), this launcher automatically handles asset downloads, version management, and launching the Minecraft client.
+Powered by [`clmlib`](https://github.com/CmlLib/CmlLib.Core), this launcher automatically handles asset downloads, version management, and launching the Minecraft client.
 
 ---
 
@@ -27,7 +27,7 @@ Powered by [`clmlib`](https://github.com/Clashsoft/clmlib), this launcher automa
 
 ## 💻 Requirements
 
-- [.NET framework 4.8 SDK or later](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
+- [.NET 4.8 framework or later](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 - Windows 10 or later
 - Internet connection (only required on first run per version)
 
