@@ -21,33 +21,34 @@ Powered by [`clmlib`](https://github.com/Clashsoft/clmlib), this launcher automa
 
 ## 📸 Screenshot
 
-> _Coming soon..._  
-> *(You can include a UI screenshot here)*
+> *![Launcher screenshot](./MinecraftLauncher/Assets/Screenshot.png)*
 
 ---
 
 ## 💻 Requirements
 
-- [.NET 6 SDK or later](https://dotnet.microsoft.com/en-us/download)
+- [.NET 4.8 SDK or later](https://dotnet.microsoft.com/en-us/download)
 - Windows 10 or later
 - Internet connection (only required on first run per version)
 
 ---
 
 ## 🛠️ How to Build & Run
----
+
 ### You can download the official latest relases [here](link.com)
 ---
 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/wpf-minecraft-launcher.git
-   cd wpf-minecraft-launcher
+   git clone https://github.com/user5012/MinecraftLauncher.git
+   cd MinecraftLauncher
+
 2. **Open in Visual Studio**
    * Open the .sln file in Visual Studio 2022 or later.
    * Restore NuGet packages (automatically done by VS).
    * Set the WPF project as startup project.
+
 3. **Build & Run**
    *Click Start (F5) or build the project and run the .exe manually from bin/Debug/net6.0-windows/
 
@@ -58,6 +59,7 @@ Powered by [`clmlib`](https://github.com/Clashsoft/clmlib), this launcher automa
 
 ## ⚠️ Disclaimer
 This launcher runs Minecraft in offline mode, which does not require Mojang or Microsoft account authentication.
+
 > ⚠️ This is intended for educational, modding, testing, and private use only.
 > You must own a legal copy of Minecraft to comply with Mojang's EULA.
 > Do not use this for piracy or unauthorized distribution.
