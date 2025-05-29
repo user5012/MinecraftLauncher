@@ -27,7 +27,7 @@ Powered by [`clmlib`](https://github.com/Clashsoft/clmlib), this launcher automa
 
 ## 💻 Requirements
 
-- [.NET 4.8 SDK or later](https://dotnet.microsoft.com/en-us/download)
+- [.NET framework 4.8 SDK or later](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 - Windows 10 or later
 - Internet connection (only required on first run per version)
 
