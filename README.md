@@ -58,11 +58,9 @@ Powered by [`clmlib`](https://github.com/Clashsoft/clmlib), this launcher automa
 
 ## ⚠️ Disclaimer
 This launcher runs Minecraft in offline mode, which does not require Mojang or Microsoft account authentication.
-```
-⚠️ This is intended for educational, modding, testing, and private use only.
-You must own a legal copy of Minecraft to comply with Mojang's EULA.
-Do not use this for piracy or unauthorized distribution.
-```
+> ⚠️ This is intended for educational, modding, testing, and private use only.
+> You must own a legal copy of Minecraft to comply with Mojang's EULA.
+> Do not use this for piracy or unauthorized distribution.
 
 ## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
